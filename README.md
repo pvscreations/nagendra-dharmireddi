@@ -5,7 +5,7 @@
     <strong align="left">🛠️ SKILLS</strong>
   </summary>
   <ul>
-    <details>
+    <details open>
       <summary>
         <b align="left">🖥️ Programming Languages</b>
       </summary>
