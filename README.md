@@ -1,5 +1,66 @@
-<h2 align="left">Hi 👋! My name is Nagendra and I'm a softaware developer and data science engineer, undergraduate from
-    RGUKT-NUZVID</h2>
+<h2 align="left">Know More Technical Details About "Nagendra Dharmireddi"</h2>
+<details open>
+    <summary><b>📁 EXTERNAL ORGANISATION CONTRIBUTIONS | PROJECTS </b></summary><br>
+    <ul>
+        <table>
+            <tr>
+                <td width="50%">
+                    <b>📂 </b>
+                    <a href="https://github.com/learn-hunger/visualise-data-kit" target="_blank">
+                        <b>visualise-data-kit</b>
+                    </a>
+                    <h6>A versatile toolkit for creating static, animated, and interactive visualizations in Typescript.
+                    </h6>
+                    <div align="center">
+                        <img title="Typescript"
+                            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
+                            height="32" alt="Flutter logo" />
+                    </div>
+                </td>
+                <!--                 <td width="50%">
+                        <a href="https://intranet.rguktn.ac.in/SMS/usrphotos/user/N181022.jpg" target="_blank">
+                            <b>📂 Intranet Backend</b>
+                            <div align="center">
+                                <img title="PHP"
+                                    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"
+                                    height="32" alt="PHP logo" />
+                            </div>
+                        </a>
+                        <br>
+                        Description for the Intranet Backend repository goes here.
+                    </td> -->
+            </tr>
+        </table>
+        <!-- <table>
+                <tr>
+                    <td width="50%">
+                        <b>📂 </b>
+                        <a href="https://github.com/learn-hunger/visualise-data-kit" target="_blank">
+                            <b>visualise-data-kit</b>
+                        </a>
+                        <h6>A versatile toolkit for creating static, animated, and interactive visualizations in Typescript.</h6>
+                        <div align="center">
+                            <img title="Typescript"
+                                src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
+                                height="32" alt="Flutter logo" />
+                        </div>
+                    </td>
+                    <td width="50%">
+                        <a href="https://intranet.rguktn.ac.in/SMS/usrphotos/user/N181022.jpg" target="_blank">
+                            <b>📂 Intranet Backend</b>
+                            <div align="center">
+                                <img title="PHP"
+                                    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"
+                                    height="32" alt="PHP logo" />
+                            </div>
+                        </a>
+                        <br>
+                        Description for the Intranet Backend repository goes here.
+                    </td>
+                </tr>
+            </table> -->
+    </ul>
+</details>
 <details open>
     <summary>
         <strong align="left">🛠️ SKILLS</strong>
@@ -122,7 +183,8 @@
                 <img width="12" />
                 <img src="https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white&style=for-the-badge"
                     height="40" alt="heroku logo" />
-              <img height="40" alt="amazonwebservices logo" src="https://img.shields.io/badge/Amazon AWS-232F3E?logo=amazonaws&amp;logoColor=white&amp;style=for-the-badge">
+                <img height="40" alt="amazonwebservices logo"
+                    src="https://img.shields.io/badge/Amazon AWS-232F3E?logo=amazonaws&amp;logoColor=white&amp;style=for-the-badge">
             </div>
         </details>
         <details>
@@ -217,40 +279,5 @@
                 </details>
             </ul>
         </details>
-    </ul>
-</details>
-</ul>
-
-<details open>
-    <summary><b>📁 Organisation Contributions | Projects </b></summary><br>
-    <ul>
-        <table>
-            <tr>
-                <td width="50%">
-                    <b>📂 </b>
-                    <a href="https://github.com/learn-hunger/visualise-data-kit" target="_blank">
-                        <b>visualise-data-kit</b>
-                    </a>
-                    <h6>A versatile toolkit for creating static, animated, and interactive visualizations in Typescript.</h6>
-                    <div align="center">
-                        <img title="Typescript"
-                            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
-                            height="32" alt="Flutter logo" />
-                    </div>
-                </td>
-<!--                 <td width="50%">
-                    <a href="https://intranet.rguktn.ac.in/SMS/usrphotos/user/N181022.jpg" target="_blank">
-                        <b>📂 Intranet Backend</b>
-                        <div align="center">
-                            <img title="PHP"
-                                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"
-                                height="32" alt="PHP logo" />
-                        </div>
-                    </a>
-                    <br>
-                    Description for the Intranet Backend repository goes here.
-                </td> -->
-            </tr>
-        </table>
     </ul>
 </details>
