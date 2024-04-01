@@ -9,7 +9,7 @@
                     <a href="https://github.com/learn-hunger/visualise-data-kit" target="_blank">
                         <b>visualise-data-kit</b>
                     </a>
-                    <h6>A versatile toolkit for creating static, animated, and interactive visualizations in Typescript.
+                    <h6>A npm package for creating static, animated, and interactive visualizations in Typescript.
                     </h6>
                     <div align="center">
                         <img title="Typescript"
