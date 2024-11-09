@@ -4,6 +4,19 @@
     <ul>
         <table>
             <tr>
+                    <td width="50%">
+                    <b>📂 </b>
+                    <a href="https://github.com/learn-hunger/visual-gestures" target="_blank">
+                        <b>Visual-gestures</b>
+                    </a>
+                    <h6>This project reflects my reputation and skills through its diverse features.<br/> VisualGestures.js, empowers users to effortlessly control the cursor, including actions such as hover, click, drag, and drop,through precise finger movements in the air.              
+                    </h6>
+                    <div align="center">
+                        <img title="Typescript"
+                            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
+                            height="32" alt="Npm pacakge" />
+                    </div>
+                </td>
                 <td width="50%">
                     <b>📂 </b>
                     <a href="https://github.com/learn-hunger/visualise-data-kit" target="_blank">
@@ -14,7 +27,20 @@
                     <div align="center">
                         <img title="Typescript"
                             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
-                            height="32" alt="Flutter logo" />
+                            height="32" alt="Npm package" />
+                    </div>
+                </td>
+                <td width="50%">
+                    <b>📂 </b>
+                    <a href="https://github.com/learn-hunger/Converters" target="_blank">
+                        <b>Converters</b>
+                    </a>
+                    <h6>A project initiated to have text,audio,video converters,translators and other tools to work offline as much as possible.
+                    </h6>
+                    <div align="center">
+                        <img title="Typescript"
+                            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
+                            height="32" alt="Npm package" />
                     </div>
                 </td>
                 <!--                 <td width="50%">
@@ -66,12 +92,12 @@
         <strong align="left">🛠️ SKILLS</strong>
     </summary>
     <ul>
-        <details open>
+        <details>
             <summary>
                 <b align="left">🖥️ Programming Languages</b>
             </summary>
             <ul>
-                <div align="left">
+                <div align="left">  
                     <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge"
                         height="40" alt="typescript logo" />
                     <img width="12" />
@@ -91,9 +117,9 @@
                 </div>
             </ul>
         </details>
-        <details>
+        <details open>
             <summary>
-                <b align="left">📦 Software Development Languages</b>
+                <b align="left">📦 Software Development Skills</b>
             </summary>
             <ul>
                 <details open>
@@ -102,6 +128,9 @@
                     </summary>
                     <ul>
                         <div align="left">
+                             <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=Three.js&logoColor=white"
+                                height="40" alt="react logo" />
+                            <img width="12" />        
                             <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge"
                                 height="40" alt="react logo" />
                             <img width="12" />
